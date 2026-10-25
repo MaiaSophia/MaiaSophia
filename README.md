@@ -4,6 +4,13 @@ M1 Mathematics student at UPEC · Probability & applied mathematics
 
 ## 🎨 Heidelberg Laureate Forum 2026
 
+The [Heidelberg Laureate Forum](https://www.heidelberg-laureate-forum.org/)
+brings together, every year in Heidelberg, laureates of the most prestigious
+awards in mathematics and computer science (Abel Prize, Fields Medal, ACM
+A.M. Turing Award, ACM Prize in Computing, IMU Abacus Medal) with about 200
+selected young researchers from around the world, for a week of talks,
+discussions and exchanges.
+
 I was selected to take part in the **13th Heidelberg Laureate Forum** (2026),
 where I presented my artwork ***La beleco savos la mondon*** in the Gestalt
 exhibition (ISAP 2026).
