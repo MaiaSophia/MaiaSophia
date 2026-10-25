@@ -93,7 +93,7 @@ I co-founded MS Procédures, a platform that helps students pursue their studies
 
 I independently designed, organized and led guided tours of Paris on a range of themes, including history and poetry.
 
-👉 [My Airbnb profile](https://www.airbnb.fr/users/show/299515129)
+👉 [Mon profil](https://www.airbnb.fr/users/show/299515129)
 
 ## 🤖 Robotics & olympiad mathematics
 
