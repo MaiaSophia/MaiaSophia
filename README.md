@@ -47,9 +47,15 @@ I took part in this summer school at UPEC, organized by the Académie Spatiale d
 
 I attended two introductory research programs in mathematics for women studying at undergraduate level: at CIRM in Marseille and in Amiens.
 
-👉 [CIRM program](https://www.cirm-math.fr/Schedule/display.php?id_renc=2969) · [2023 programs in Marseille and Amiens](https://izes.math.cnrs.fr/page-d-exemple/)
+👉 [About Maths C pour L — Société Mathématique de France](https://smf.emath.fr/smf-dossiers-et-ressources/stages-math-c-pour-l)
 
 ## 🤝 Teaching & volunteering
+
+### Private lessons — Mathematics, Russian & stretching
+
+I give private lessons in mathematics, Russian and stretching.
+
+👉 [My Superprof page](https://www.superprof.fr/maths-comprendre-progresser-reussir-tutrice-master-danalyse.html)
 
 ### Mathematics tutor — Sorbonne University, 2023–2025
 
