@@ -18,7 +18,7 @@ exhibition (ISAP 2026).
 👉 [See the artwork on the exhibition page](https://demian-goos.de/isap-2026-13th-hlf/artworks/sophia-mai/)
 
 <a href="https://demian-goos.de/isap-2026-13th-hlf/artworks/sophia-mai/">
-  <img src="https://raw.githubusercontent.com/MaiaSophia/e8-artwork-string-theory/main/output/Sophia_MAI_artwork.png" alt="La beleco savos la mondon" width="600">
+  <img src="https://raw.githubusercontent.com/MaiaSophia/e8-artwork-string-theory-2026/main/output/Sophia_MAI_artwork.png" alt="La beleco savos la mondon" width="600">
 </a>
 
 E8 as the dreamed bridge between quantum mechanics and general relativity,
@@ -26,7 +26,7 @@ through heterotic string theory (E8 × E8).
 
 ## 📂 Projects
 
-- [**e8-artwork-string-theory**](https://github.com/MaiaSophia/e8-artwork-string-theory) — the artwork and its code
+- [**e8-artwork-string-theory-2026**](https://github.com/MaiaSophia/e8-artwork-string-theory-2026) — the artwork and its code
 
 ### 📐 Mathematics coursework
 
