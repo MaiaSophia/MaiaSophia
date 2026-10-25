@@ -51,6 +51,18 @@ I attended two introductory research programs in mathematics for women studying 
 
 ## 🤝 Teaching & volunteering
 
+### Student mentor & disability liaison — Sorbonne University, 2021–2025
+
+As an étudiante pilote and disability liaison, I welcomed and supported students to help them settle into university life.
+
+### Student residence liaison — Crous de Versailles
+
+I served as an étudiante référente in my Crous de Versailles university residence.
+
+### Active member — Sorbonne University Mathematics Association (AMSU), 2023–2025
+
+I took part in the activities of the university’s student mathematics association.
+
 ### Private lessons — Mathematics, Russian & stretching
 
 I give private lessons in mathematics, Russian and stretching.
@@ -83,7 +95,14 @@ I independently designed, organized and led guided tours of Paris on a range of 
 
 👉 [My Airbnb profile](https://www.airbnb.fr/users/show/299515129)
 
+## 🤖 Robotics & olympiad mathematics
+
+- **Trophées de Robotique, 2017** — participated with an Arduino-based robot.
+- **POFM & Animath** — member of the French Mathematics Olympiad preparation programme (POFM) while in troisième, and participant in Animath training camps.
+
 ## 🏆 Awards
 
 - **Prix Pépite — Île-de-France regional winner, 2025**, with AreyDoc. [Announcement by Pépite Sorbonne Université](https://fr.linkedin.com/posts/p%C3%A9pite-sorbonne-universit%C3%A9_retour-en-images-sur-la-c%C3%A9r%C3%A9monie-du-prix-activity-7395025851022749696-pzZX)
 - **PépitePitch — Local winner (Pépite Sorbonne Université) and national finalist, 2025**, with AreyDoc. [Official finalist presentation](https://www.pepite-france.fr/finale-pepitepitch-2025/)
+- **Nouvelles Avancées short-story competition — Finalist, 2021 and 2023.**
+- **French Youth Chess Championship — Qualified, 2015.**
