@@ -77,7 +77,13 @@ I co-founded MS Procédures, a platform that helps students pursue their studies
 👉 [Visit MS Procédures](https://ms-procedures.com/)
 
 
+### Independent tour guide — Airbnb Experiences, 2020–2025
+
+I independently designed, organized and led guided tours of Paris on a range of themes, including history and poetry.
+
+👉 [My Airbnb profile](https://www.airbnb.fr/users/show/299515129)
+
 ## 🏆 Awards
 
-- **Prix Pépite — Regional winner, 2025.**
-- **PépitePitch — Pépite Sorbonne Université winner and national finalist, 2025**, with AreyDoc. [Official finalist presentation](https://www.pepite-france.fr/finale-pepitepitch-2025/)
+- **Prix Pépite — Île-de-France regional winner, 2025**, with AreyDoc. [Announcement by Pépite Sorbonne Université](https://fr.linkedin.com/posts/p%C3%A9pite-sorbonne-universit%C3%A9_retour-en-images-sur-la-c%C3%A9r%C3%A9monie-du-prix-activity-7395025851022749696-pzZX)
+- **PépitePitch — Local winner (Pépite Sorbonne Université) and national finalist, 2025**, with AreyDoc. [Official finalist presentation](https://www.pepite-france.fr/finale-pepitepitch-2025/)
