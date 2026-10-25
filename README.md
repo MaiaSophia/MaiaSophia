@@ -72,4 +72,12 @@ I volunteered as a guide at EGMO 2026 in Bordeaux and organized the [White Ball]
 
 ### Co-founder & manager — MS Procédures, 2025–present
 
-I co-founded MS Procédures, which supports international students with their plans to study in France. I manage the business and its bookkeeping, and develop and maintain the website.
+I co-founded MS Procédures, a platform that helps students pursue their studies abroad, in destinations around the world. I manage the business and its bookkeeping, and develop and maintain the website.
+
+👉 [Visit MS Procédures](https://ms-procedures.com/)
+
+
+## 🏆 Awards
+
+- **Prix Pépite — Regional winner, 2025.**
+- **PépitePitch — Pépite Sorbonne Université winner and national finalist, 2025**, with AreyDoc. [Official finalist presentation](https://www.pepite-france.fr/finale-pepitepitch-2025/)
