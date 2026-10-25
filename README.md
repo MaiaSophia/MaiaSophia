@@ -27,4 +27,9 @@ through heterotic string theory (E8 × E8).
 ## 📂 Projects
 
 - [**e8-artwork-string-theory**](https://github.com/MaiaSophia/e8-artwork-string-theory) — the artwork and its code
-- [**steiner-problem-m1**](https://github.com/MaiaSophia/steiner-problem-m1) — M1 project on the Steiner problem in metric spaces
+
+### 📐 Mathematics coursework
+
+- [**steiner-problem-2026**](https://github.com/MaiaSophia/steiner-problem-2026) — *May 2026* · M1 research project on the Steiner problem in metric spaces (UPEC, supervised by Vincent Millot)
+- [**dirichlet-theorem-2025**](https://github.com/MaiaSophia/dirichlet-theorem-2025) — *April 2025* · Dirichlet's theorem on primes in arithmetic progressions (Andrea Conti's course)
+- [**transcendence-of-e-and-pi-2023**](https://github.com/MaiaSophia/transcendence-of-e-and-pi-2023) — *January 2023* · Transcendence of e and π, constructible numbers (L2 project, in French)
