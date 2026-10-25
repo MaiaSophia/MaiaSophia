@@ -57,6 +57,6 @@ I tutored first-year mathematics students in groups of around ten, helping them 
 
 ### Volunteer guide — European Girls’ Mathematical Olympiad, April 2026
 
-I volunteered as a guide at EGMO 2026 in Bordeaux.
+I volunteered as a guide at EGMO 2026 in Bordeaux and organized the [White Ball](https://egmo2026.fr/programme/activities/), a waltz ball included in the event’s activities.
 
 👉 [EGMO 2026 official website](https://egmo2026.fr/index.html)
