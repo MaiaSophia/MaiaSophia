@@ -2,7 +2,8 @@
 
 M1 Mathematics student at UPEC 
 
-📧 [sophia.mai@etu.u-pec.fr](mailto:sophia.mai@etu.u-pec.fr) · 💼 [LinkedIn](https://www.linkedin.com/in/sophia-maia-mai/)
+[sophia.mai@etu.u-pec.fr](mailto:sophia.mai@etu.u-pec.fr) 
+[LinkedIn](https://www.linkedin.com/in/sophia-maia-mai/)
 
 ## 📐 Mathematics
 
