@@ -2,38 +2,23 @@
 
 M1 Mathematics student at UPEC · Probability & applied mathematics
 
-## 🎨 Heidelberg Laureate Forum 2026
+📧 [sophia.mai@etu.u-pec.fr](mailto:sophia.mai@etu.u-pec.fr) · 💼 [LinkedIn](https://www.linkedin.com/in/sophia-maia-mai/)
 
-The [Heidelberg Laureate Forum](https://www.heidelberg-laureate-forum.org/)
-brings together, every year in Heidelberg, laureates of the most prestigious
-awards in mathematics and computer science (Abel Prize, Fields Medal, ACM
-A.M. Turing Award, ACM Prize in Computing, IMU Abacus Medal) with about 200
-selected young researchers from around the world, for a week of talks,
-discussions and exchanges.
-
-I was selected to take part in the **13th Heidelberg Laureate Forum** (2026),
-where I presented my artwork ***La beleco savos la mondon*** in the Gestalt
-exhibition (ISAP 2026).
-
-👉 [See the artwork on the exhibition page](https://demian-goos.de/isap-2026-13th-hlf/artworks/sophia-mai/)
-
-<a href="https://demian-goos.de/isap-2026-13th-hlf/artworks/sophia-mai/">
-  <img src="https://raw.githubusercontent.com/MaiaSophia/e8-artwork-string-theory-2026/main/output/Sophia_MAI_artwork.png" alt="La beleco savos la mondon" width="600">
-</a>
-
-E8 as the dreamed bridge between quantum mechanics and general relativity,
-through heterotic string theory (E8 × E8).
-
-## 📂 Projects
-
-- [**e8-artwork-string-theory-2026**](https://github.com/MaiaSophia/e8-artwork-string-theory-2026) — the artwork and its code
-
-### 📐 Mathematics coursework
+## 📐 Mathematics
 
 - [**steiner-problem-2026**](https://github.com/MaiaSophia/steiner-problem-2026) — *May 2026* · M1 research project on the Steiner problem in metric spaces (UPEC, supervised by Vincent Millot)
 - [**dirichlet-theorem-2025**](https://github.com/MaiaSophia/dirichlet-theorem-2025) — *April 2025* · Dirichlet's theorem on primes in arithmetic progressions (L3 research seminar, Andrea Conti's course, Heidelberg University)
 - [**transcendence-of-e-and-pi-2023**](https://github.com/MaiaSophia/transcendence-of-e-and-pi-2023) — *January 2023* · Transcendence of e and π, constructible numbers (L2 project, in French)
 
+## 🎨 Heidelberg Laureate Forum 2026
+
+I was selected for the **13th Heidelberg Laureate Forum** (2026), where I presented my artwork ***La beleco savos la mondon*** in the Gestalt exhibition (ISAP 2026): E8 as the dreamed bridge between quantum mechanics and general relativity, through heterotic string theory (E8 × E8).
+
+<a href="https://demian-goos.de/isap-2026-13th-hlf/artworks/sophia-mai/">
+  <img src="https://raw.githubusercontent.com/MaiaSophia/e8-artwork-string-theory-2026/main/output/Sophia_MAI_artwork.png" alt="La beleco savos la mondon" width="600">
+</a>
+
+👉 [The artwork on the exhibition page](https://demian-goos.de/isap-2026-13th-hlf/artworks/sophia-mai/) · [its code](https://github.com/MaiaSophia/e8-artwork-string-theory-2026)
 
 ## 🛰️ Summer schools & research experience
 
@@ -63,9 +48,9 @@ I served as an étudiante référente in my Crous de Versailles university resid
 
 I took part in the activities of the university’s student mathematics association.
 
-### Private lessons — Mathematics, Russian & stretching
+### Private lessons — Mathematics & Russian
 
-I give private lessons in mathematics, Russian and stretching.
+I give private lessons in mathematics and Russian.
 
 👉 [My Superprof page](https://www.superprof.fr/maths-comprendre-progresser-reussir-tutrice-master-danalyse.html)
 
@@ -93,7 +78,7 @@ I co-founded MS Procédures, a platform that helps students pursue their studies
 
 I independently designed, organized and led guided tours of Paris on a range of themes, including history and poetry.
 
-👉 [Mon profil](https://www.airbnb.fr/users/show/299515129)
+👉 [My profile](https://www.airbnb.fr/users/show/299515129)
 
 ## 🤖 Robotics & olympiad mathematics
 
