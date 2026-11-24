@@ -1,6 +1,6 @@
 # Sophia Mai
 
-M1 Mathematics student at UPEC · Probability & applied mathematics
+M1 Mathematics student at UPEC 
 
 📧 [sophia.mai@etu.u-pec.fr](mailto:sophia.mai@etu.u-pec.fr) · 💼 [LinkedIn](https://www.linkedin.com/in/sophia-maia-mai/)
 
